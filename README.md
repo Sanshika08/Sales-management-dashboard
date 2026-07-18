@@ -46,26 +46,6 @@ The **Sales Management Dashboard** is built using **Microsoft Excel** to transfo
 | 🏆 Highest Sales       | Best sales performance    |
 | 📉 Lowest Sales        | Lowest sales performance  |
 
----
-
-📷 Dashboard Preview
-
-> **Add your dashboard screenshot here**
-
-```text
-📁 Repository
- ├── Sales_Management_Dashboard.xlsx
- ├── dashboard.png
- └── README.md
-```
-
-After uploading the screenshot:
-
-```markdown
-![Sales Dashboard](dashboard.png)
-```
-
----
 
  📈 Business Insights
 
