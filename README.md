@@ -55,18 +55,7 @@ The **Sales Management Dashboard** is built using **Microsoft Excel** to transfo
 * Analyze order trends.
 * Make data-driven business decisions.
 
----
 
-📂 Project Structure
-
-```text
-📁 Sales-Management-Dashboard
-│── 📄 Sales_Management_Dashboard.xlsx
-│── 🖼️ dashboard.png
-└── 📘 README.md
-```
-
----
 
  🎯 Skills Demonstrated
 
@@ -98,4 +87,4 @@ Aspiring Data Analyst
 
 Skills: Excel • SQL • Power BI • Python • Data Visualization
 
-⭐ If you found this project useful, consider giving it a star!
+
